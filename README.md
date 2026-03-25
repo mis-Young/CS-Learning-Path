@@ -1,1 +1,1 @@
-# automatic-winner
+# 算法仓库
